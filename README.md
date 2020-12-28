@@ -1,6 +1,6 @@
 # My CSGO config
 
-## Launch options
+### Launch options
 ```
 -novid +exec temir
 ```
