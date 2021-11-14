@@ -6,5 +6,5 @@
 
 ### Launch options
 ```
--novid +exec temir
+-novid -language english +exec temir
 ```
