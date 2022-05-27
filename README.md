@@ -1,8 +1,8 @@
 # My CSGO config
 
-* DPI 600
-* Sensitivity 2
-* Edpi 1200
+* DPI 800
+* Sensitivity 1
+* Edpi 800
 
 ### Launch options
 ```
